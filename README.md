@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]()
+[![MasterHead](https://i.pinimg.com/originals/ec/31/a2/ec31a2a228453452c6f35faf39a576b0.gif)]()
 <h1 align="center">Hello there, I'm Sanket Mhamal</h1>
 <h3 align="center">A developer interested in creating creative software</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ec/31/a2/ec31a2a228453452c6f35faf39a576b0.gif"/>
