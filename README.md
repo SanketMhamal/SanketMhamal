@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello there, I'm Sanket Mhamal</h1>
 <h3 align="center">A developer interested in creating creative software</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ec/31/a2/ec31a2a228453452c6f35faf39a576b0.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ec/31/a2/ec31a2a228453452c6f35faf39a576b0.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketmhamal&label=Profile%20views&color=0e75b6&style=flat" alt="sanketmhamal" /> </p>
 
 <h3 align="left">Connect with me:</h3>
